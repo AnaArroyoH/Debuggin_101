@@ -11,7 +11,7 @@ const array = [
     // console.log ("Dit is de gehele persoon: ", person); // Use a coma (,) to display the whole
     // object, using + or [] won't show the whole object.
     // console.log ("De naam is", person.name);
-    // console.log ("Het geboorte jaar is", 2020 - person.age);
+    // console.log ("Het geboorte jaar is", 2021 - person.age);
     // console.log (person.name, "is een", person.profession);
     if (person.age > 50){
         console.log (person.name, "is ouder dan 50"); 
